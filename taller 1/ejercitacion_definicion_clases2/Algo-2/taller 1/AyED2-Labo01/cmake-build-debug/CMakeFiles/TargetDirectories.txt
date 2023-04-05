@@ -1,0 +1,6 @@
+C:/Users/ivans/OneDrive/Escritorio/Ivan/Algo 2/AyED2-Labo01/cmake-build-debug/CMakeFiles/tests_algobot.dir
+C:/Users/ivans/OneDrive/Escritorio/Ivan/Algo 2/AyED2-Labo01/cmake-build-debug/CMakeFiles/tests_ejercitacion.dir
+C:/Users/ivans/OneDrive/Escritorio/Ivan/Algo 2/AyED2-Labo01/cmake-build-debug/CMakeFiles/gtest.dir
+C:/Users/ivans/OneDrive/Escritorio/Ivan/Algo 2/AyED2-Labo01/cmake-build-debug/CMakeFiles/gtest_main.dir
+C:/Users/ivans/OneDrive/Escritorio/Ivan/Algo 2/AyED2-Labo01/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ivans/OneDrive/Escritorio/Ivan/Algo 2/AyED2-Labo01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
